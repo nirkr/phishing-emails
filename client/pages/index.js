@@ -6,9 +6,6 @@ import { MailItemsTable } from '../components/MailItemsTable/';
 export default function Home() {
   const [user,setUser] = useState(true);
   useEffect(()=>{
-
-// will get the info if user is authenticated or not
-
     async function wrapper(){
       const user = await currentUser();
       setUser(user);
