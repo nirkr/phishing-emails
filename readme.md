@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 * app shows mail from server
 * app has signin page with connects with the server
-* there is still work to connect completely the auth availability to rendered data
+* auth is being checked by currentUser API - there is still work to connect completely the auth availability to rendered data
 
 ## server:
 express, jwt
