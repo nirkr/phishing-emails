@@ -1,9 +1,6 @@
 
 ## Phishing-Mails project
 
-The project wasn't completed and some bugs exist.
-See the description below to see what was done
-
 ## client: 
 Project was build with nextJS 
 * install dependencies: npm i
